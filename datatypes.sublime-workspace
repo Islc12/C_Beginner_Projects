@@ -1,1 +1,287 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"do",
+				"doLoop"
+			],
+			[
+				"pa",
+				"palindromePyramid"
+			],
+			[
+				"birth",
+				"birthdayAge"
+			],
+			[
+				"birthday",
+				"birthdayKid"
+			],
+			[
+				"a",
+				"main"
+			],
+			[
+				"Un",
+				"Unspecified"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 148.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rich/Projects/C/C_Beginner_Projects/.gitignore",
+		"/home/rich/Projects/C/C_Beginner_Projects/test.c",
+		"/home/rich/Projects/C/C_Beginner_Projects/DSA/selectsort",
+		"/home/rich/Projects/C/C_Beginner_Projects/datatypes.sublime-project",
+		"/home/rich/Projects/C/Test_Projects/DSA/selectsort.c",
+		"/home/rich/Projects/C/Test_Projects/bubblesort.c",
+		"/home/rich/Projects/C/Test_Projects/selectsort.c",
+		"/home/rich/Projects/C/Test_Projects/rps.c",
+		"/home/rich/Projects/C/Test_Projects/random.c",
+		"/home/rich/Projects/C/Test_Projects/if_n_switch.c",
+		"/home/rich/Projects/C/Test_Projects/multtable.c",
+		"/home/rich/Projects/C/Test_Projects/scope.c",
+		"/home/rich/Projects/C/Test_Projects/prototype.c",
+		"/home/rich/Projects/C/Test_Projects/loopproj.c",
+		"/home/rich/Projects/C/Test_Projects/funct.c",
+		"/home/rich/Projects/C/Test_Projects/datatypes.c",
+		"/home/rich/Projects/C/Test_Projects/artloops.c",
+		"/home/rich/Projects/C/Test_Projects/whileloop.c",
+		"/home/rich/Projects/C/Test_Projects/test.py",
+		"/home/rich/Projects/Python/CyberSecProjects/OkeusStrike/OkeusDocs/TODO.md",
+		"/home/rich/Projects/Python/CyberSecProjects/OkeusStrike/okeus",
+		"/home/rich/Projects/Python/CyberSecProjects/OkeusStrike/.gitignore",
+		"/home/rich/Projects/Python/CyberSecProjects/OkeusStrike/body.py",
+		"/home/rich/Projects/Python/CyberSecProjects/OkeusStrike/okeusargs.py",
+		"/home/rich/Projects/Python/CyberSecProjects/OkeusStrike/radio.py",
+		"/home/rich/Projects/Python/CyberSecProjects/OkeusStrike/OkeusDocs/.gitignore",
+		"/home/rich/Projects/Python/CyberSecProjects/OkeusStrike/okeus-reason.1",
+		"/home/rich/Projects/Python/CyberSecProjects/OkeusStrike/okeus.1",
+		"/home/rich/Projects/Python/CyberSecProjects/OkeusStrike/reason.py",
+		"/home/rich/Projects/Python/CyberSecProjects/OkeusStrike/TODO.md",
+		"/home/rich/Projects/Python/CyberSecProjects/OkeusStrike/config.sh",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusDiscover/channel.py",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/.gitignore",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/okeus",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/README.md",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/convert.py",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/OkeusDocs/README.md",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/OkeusDocs/okeus.1",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/config.sh",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/okeusstrike.1",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/reason.py",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/okeusarguments.py",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/rt.py",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/frag.py",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/flood.py",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/deauth.py",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/dict.py",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/mac.py",
+		"/home/rich/Python_Test_Scripts/CyberSecProjects/OkeusStrike/powerchan.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sorting",
+			"g",
+			"*",
+			","
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"*",
+			",",
+			""
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 339.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 148.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "datatypes.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
